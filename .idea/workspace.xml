@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8854f01-59b8-4907-97f2-2606cf0e0493" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/New_Practice_Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fifth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fourth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/send_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sixth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/working_on_pdf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/working_with_image.py" afterDir="false" />
-    </list>
+    <list default="true" id="d8854f01-59b8-4907-97f2-2606cf0e0493" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,26 +29,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.GUI_demo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cam.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fifth.executor&quot;: &quot;Run&quot;,
-    &quot;Python.first.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fourth.executor&quot;: &quot;Run&quot;,
-    &quot;Python.message.executor&quot;: &quot;Run&quot;,
-    &quot;Python.second.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sixth.executor&quot;: &quot;Run&quot;,
-    &quot;Python.third.executor&quot;: &quot;Run&quot;,
-    &quot;Python.working_on_pdf.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.GUI_demo.executor": "Run",
+    "Python.app (1).executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.cam.executor": "Run",
+    "Python.demo.executor": "Run",
+    "Python.fifth.executor": "Run",
+    "Python.first.executor": "Run",
+    "Python.fourth.executor": "Run",
+    "Python.message.executor": "Run",
+    "Python.qr_code.executor": "Run",
+    "Python.second.executor": "Run",
+    "Python.sixth.executor": "Run",
+    "Python.third.executor": "Run",
+    "Python.working_on_pdf.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.qr_code">
     <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="New_Practice_Project" />
